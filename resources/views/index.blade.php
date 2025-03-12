@@ -80,6 +80,7 @@
             <h2>PRUEBA DE LARAVEL</h2>
             <p>En este proyecto se realizó un CRUD sobre grupos y estudiantes.</p>
             <p>Hecho por: Jessica Melina Zempoalteca Flores</p>
+            <p>Fecha 11 de marzo de 2025</p>
         </section>
     </main>
 
